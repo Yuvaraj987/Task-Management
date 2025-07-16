@@ -45,5 +45,4 @@ This project currently does not specify a license. Please contact the repository
 
 ## Author
 
-Developed by
-[View this repository on GitHub](https://github.com/Yuvaraj987/Task-Management)
+Developed by yuvaraj987
