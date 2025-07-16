@@ -45,4 +45,4 @@ This project currently does not specify a license. Please contact the repository
 
 ## Author
 
-Developed by yuvaraj987
+Developed by [Yuvaraj987](https://github.com/Yuvaraj987)
