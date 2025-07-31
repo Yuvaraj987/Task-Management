@@ -4,8 +4,13 @@ A Python-based Task Management project. This repository provides a foundation fo
 
 ## Features
 
-- Core functionality is written in Python.
-- Public repository with issue tracking, downloads, and project management enabled.
+- 📋 Create, update, and delete tasks.
+- ✅ Mark tasks as completed or pending.
+- 📅 Track due dates and deadlines for tasks.
+- 🔔 Get reminders for upcoming tasks.
+- 🗂️ Organize tasks by projects or categories.
+- 👥 Assign tasks to team members.
+- 🔎 Filter and search tasks easily.
 
 ## License
 
